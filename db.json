@@ -1,0 +1,53 @@
+{
+  "users": [
+    { "id": 1, "name": "Omid Teimory", "username": "omid", "email": "omid@example.com" },
+    { "id": 2, "name": "Jane Doe", "username": "jane", "email": "jane@demo.dev" }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "title": "Alpha Tech Tee",
+      "price": 24.99,
+      "image": "https://picsum.photos/seed/alpha/800/800",
+      "thumbnail": "https://picsum.photos/seed/alpha/200/200",
+      "category": "T-Shirts",
+      "rating": 4.4
+    },
+    {
+      "id": 102,
+      "title": "Core Zip Hoodie",
+      "price": 49.00,
+      "image": "https://picsum.photos/seed/hoodie/800/800",
+      "thumbnail": "https://picsum.photos/seed/hoodie/200/200",
+      "category": "Hoodies",
+      "rating": 4.7
+    },
+    {
+      "id": 103,
+      "title": "Motion Track Pants",
+      "price": 39.50,
+      "image": "https://picsum.photos/seed/pants/800/800",
+      "thumbnail": "https://picsum.photos/seed/pants/200/200",
+      "category": "Pants",
+      "rating": 4.3
+    },
+    {
+      "id": 104,
+      "title": "Aero Shell Jacket",
+      "price": 79.00,
+      "image": "https://picsum.photos/seed/jacket/800/800",
+      "thumbnail": "https://picsum.photos/seed/jacket/200/200",
+      "category": "Jackets",
+      "rating": 4.6
+    },
+    {
+      "id": 105,
+      "title": "Minimalist Cap",
+      "price": 19.00,
+      "image": "https://picsum.photos/seed/cap/800/800",
+      "thumbnail": "https://picsum.photos/seed/cap/200/200",
+      "category": "Accessories",
+      "rating": 4.2
+    }
+  ]
+}
