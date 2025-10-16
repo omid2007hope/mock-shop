@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": 1, "name": "Omid Teimory", "username": "omid", "email": "omid@example.com" },
-    { "id": 2, "name": "Jane Doe", "username": "jane", "email": "jane@demo.dev" }
+    { "id": 1, "name": "Omid Teimory", "username": "omid", "email": "omid@example.com", "pass": "1234" },
+    { "id": 2, "name": "Jane Doe", "username": "jane", "email": "jane@demo.dev", "pass": "1234" }
   ],
   "products": [
     {
@@ -51,3 +51,4 @@
     }
   ]
 }
+
