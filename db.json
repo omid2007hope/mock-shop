@@ -5,7 +5,7 @@
   ],
   "products": [
     {
-      "id": 101,
+      "id": 1,
       "title": "Alpha Tech Tee",
       "price": 24.99,
       "image": "https://picsum.photos/seed/alpha/800/800",
@@ -14,7 +14,7 @@
       "rating": 4.4
     },
     {
-      "id": 102,
+      "id": 2,
       "title": "Core Zip Hoodie",
       "price": 49.00,
       "image": "https://picsum.photos/seed/hoodie/800/800",
@@ -23,7 +23,7 @@
       "rating": 4.7
     },
     {
-      "id": 103,
+      "id": 3,
       "title": "Motion Track Pants",
       "price": 39.50,
       "image": "https://picsum.photos/seed/pants/800/800",
@@ -32,7 +32,7 @@
       "rating": 4.3
     },
     {
-      "id": 104,
+      "id": 4,
       "title": "Aero Shell Jacket",
       "price": 79.00,
       "image": "https://picsum.photos/seed/jacket/800/800",
@@ -41,7 +41,7 @@
       "rating": 4.6
     },
     {
-      "id": 105,
+      "id": 5,
       "title": "Minimalist Cap",
       "price": 19.00,
       "image": "https://picsum.photos/seed/cap/800/800",
